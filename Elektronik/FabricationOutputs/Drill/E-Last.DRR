@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: E-Last.CSPcbDoc   16.12.2019  19:32:51
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : E-Last-Plated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          171              992.86 mm (39.09 Inch)
+T2        0.7mm (27.559mil)        Round          9                41.21 mm (1.62 Inch)
+T3        0.9mm (35.433mil)        Round          3                8.54 mm (0.34 Inch)
+T4        1mm (39.37mil)           Round          12               197.05 mm (7.76 Inch)
+T5        1.2mm (47.244mil)        Round          4                108.94 mm (4.29 Inch)
+T6        1.3mm (51.181mil)        Round          10               214.99 mm (8.46 Inch)
+T7        1.5mm (59.055mil)        Round          3                10.92 mm (0.43 Inch)
+T8        1.75mm (68.898mil)       Round          4                47.45 mm (1.87 Inch)
+T9        3.4mm (133.858mil)       Round          5                301.92 mm (11.89 Inch)
+---------------------------------------------------------------------------
+Totals                                            221              1923.88 mm (75.74 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
